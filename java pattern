@@ -9,8 +9,7 @@ class HelloWorld {
                 System.out.print("*");
             }
              System.out.println();
-        }
-        
+        }   
     
     }
     }
